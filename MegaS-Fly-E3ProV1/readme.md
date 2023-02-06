@@ -8,6 +8,8 @@ MK4 https://www.thingiverse.com/thing:3537449
 
 MK4 SchmelzerBoy Real Orbiter 2.0 https://www.thingiverse.com/thing:4891257
 
+3D Touch
+
 Mellow 3D Fly screen 4.3" https://www.thingiverse.com/thing:4863079
 
 Hotend-Extruder direct Cable

@@ -9,4 +9,4 @@ Sovol SV01 with Fly CDY V3
 
 all with Bed Mesh indepent Z motor for X Gantry align.
 RRF 3.4+
-DWC 4.5
+DWC 3.4.5
